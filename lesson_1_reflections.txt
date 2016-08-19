@@ -1,0 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that was
+introduced?
+
+If the program was bugfree previously, the change must of created the bug. Diff shows
+the change.
